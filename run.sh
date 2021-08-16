@@ -1,3 +1,3 @@
 PATH=$PATH:$PWD
-python3 scrape.py --user=carlclark1247@gmail.com --pass=Swordfishl1
+python3 scrape.py --user=<user>@gmail.com --pass=<pass>
 
